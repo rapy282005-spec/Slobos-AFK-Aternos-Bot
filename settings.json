@@ -26,6 +26,10 @@
       "enabled": true,
       "sneak": true
     },
+    "auto-respawn": {
+      "enabled": true,
+      "delay": 1000
+    },
     "chat-messages": {
       "enabled": false,
       "repeat": true,
@@ -38,7 +42,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
