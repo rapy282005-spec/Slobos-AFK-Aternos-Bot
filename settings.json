@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rapyboy28.aternos.me:56080",
+    "ip": "rapyboy28.aternos.me",
     "port": 56080,
     "version": false,
     "try-creative": false
